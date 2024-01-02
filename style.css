@@ -21,6 +21,14 @@ span {
     color: gray;
 }
 
+.language {
+    display: flex;
+    justify-content: end;
+    padding-top: 10px;
+    padding-right: 50px;
+
+}
+
 .container{
 
     box-shadow: 0 0 20px grey;
